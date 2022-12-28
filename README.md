@@ -13,14 +13,14 @@ MAE 305 (Numerical Methods) Projects: In this folder lie the assigned projects a
 | 4 | Numerical Integration | [Num_Project 4.pdf](https://github.com/Ammo59/Portfolio/files/10283992/Project.4_.Numerical.Integration.pdf) |
 | 5 | Initial Value Problems | [Num_Project 5.pdf](https://github.com/Ammo59/Portfolio/files/10284179/Project.5_.Initial.Value.Problems.pdf)
 
-MAE 375 (Kinematics and Dynamics of Mechanisms) Coursework:
+MAE 375 (Kinematics and Dynamics of Mechanisms) Coursework: Covers Fourbar and Fivebar linkages
 | Chapter No. | Name | Key Topics |
 | :------------ | :-------------: | :-------------: |
 | 4 | Position Analysis | `Displacement` `Transimmion Angles` `Linkage Types` |
-| 5 | Numerical Solutions to Systems of Equations| [Num_Project 2.pdf](https://github.com/Ammo59/Portfolio/files/10283974/Num_Project.2_.Numerical.Solutions.to.Systems.of.Equations.pdf) |
-| 6 | Curve Fitting and Interpolation | [Num_Project 3.pdf](https://github.com/Ammo59/Portfolio/files/10283985/Num_Project.3_.Curve.Fitting.and.Interpolation.pdf) |
-| 7 | Numerical Integration | [Num_Project 4.pdf](https://github.com/Ammo59/Portfolio/files/10283992/Project.4_.Numerical.Integration.pdf) |
-| 11 | Initial Value Problems | [Num_Project 5.pdf](https://github.com/Ammo59/Portfolio/files/10284179/Project.5_.Initial.Value.Problems.pdf)
+| 5 | Analytical Linkage Synthesis | `Two-Position` `Three-Position` `Optimization Methods` |
+| 6 | Velocity Analysis | `Instant Centers of Velocity` `Crank-Slider` `Slider-Crank` `Inverted Slider-Crank` |
+| 7 | Acceleration Analysis |`N-bar Linkages` `Jerk` `Graphical Analysis`|
+| 11 | Dynamic Force Analysis | `Energy Method` `Shaking Force` `Shaking Moment` `Torque Analysis` |
 
 
 MAE 376 (Modeling and Analysis of Dynamic Systems) Coursework:
