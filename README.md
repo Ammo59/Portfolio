@@ -22,7 +22,17 @@ MAE 375 (Kinematics and Dynamics of Mechanisms) Coursework: Covers Fourbar and F
 | 7 | Acceleration Analysis |`N-bar Linkages` `Jerk` `Graphical Analysis`|
 | 11 | Dynamic Force Analysis | `Energy Method` `Shaking Force` `Shaking Moment` `Torque Analysis` |
 
-
 MAE 376 (Modeling and Analysis of Dynamic Systems) Coursework:
+| Chapter No. | Name | Key Topics |
+| :------------ | :-------------: | :-------------: |
+| 2 | Complex Analysis| `Laplace Transformation` `Differential Equation` `Unit-Step/Ramp/Pulse/Impulse` `Initial/Final Value Theorem|
+| 3 | Matrix Analysis | `Gauss Elimination` `Cramer's Rule` `Eigenvalues` |
+| 4 | System Model Representation | `Simulink` `State-Space Form` `I/O Equation` `Transfer Function` `Block Diagram` `Linearization` |
+| 5 | Mechanical Systems |`Spring and Dampers` `Translational Systems` `Rotational Systems` `Mixed Systems: Translation and Rotation` `Gear-Train Systems` |
+| 6 | Electrical, Electronic, and Electromechanical System | `Circuits` `Kirchhoff's Voltage/Current Law` `Op-Amps` `Impedance Methods` `System Modeling with Simulink & Simscape` |
+| 7 | Fluid and Thermal Systems | `Pnuematics` `Hydraulic Capacitance/Resistance` `Thermal Systems` `System Modeling with Simulink & Simscape` |
+| 8 | System Response | `Transient/Steady-State Response` `First/Second-Order Systems` `Frequency Response` `Bode Plot` `Nonlinear Systems` `Runge-Kutta Method` |
+| 9 | Vibration |`Free Vibration` `Forced Vibration` `Isolator/Absorber Suppresions` `Modal Analysis` `Measurement and Analysis` |
+| 10 | Feedback Control Systems |`Control Design` `Stability and Performance` `PID Control` `Root Locus` `Bode Plot Simulation and Analysis` `Full-State Feedback` `Simulink/Simscape Control Design` |
 
 MAE 476 (Mechanical Control Systems) Homework: 
