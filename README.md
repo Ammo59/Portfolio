@@ -38,3 +38,10 @@ MAE 376 (Modeling and Analysis of Dynamic Systems) Coursework:
 | 10 | Feedback Control Systems |`Control Design` `Stability and Performance` `PID Control` `Root Locus` `Bode Plot Simulation and Analysis` `Full-State Feedback` `Simulink/Simscape Control Design` |
 
 MAE 476 (Mechanical Control Systems) Homework: 
+
+## From Long Beach City College
+
+CS 11: Intro to Computer Science - C++
+
+CS 22: Data Structures and Alogrithms
+
