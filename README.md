@@ -25,7 +25,7 @@ MAE 375 (Kinematics and Dynamics of Mechanisms) Coursework: Covers Fourbar and F
 MAE 376 (Modeling and Analysis of Dynamic Systems) Coursework:
 | Chapter No. | Name | Key Topics |
 | :------------ | :-------------: | :-------------: |
-| 2 | Complex Analysis| `Laplace Transformation` `Differential Equation` `Unit-Step/Ramp/Pulse/Impulse` `Initial/Final Value Theorem|
+| 2 | Complex Analysis| `Laplace Transformation` `Differential Equation` `Unit-Step/Ramp/Pulse/Impulse` `Initial/Final Value Theorem`|
 | 3 | Matrix Analysis | `Gauss Elimination` `Cramer's Rule` `Eigenvalues` |
 | 4 | System Model Representation | `Simulink` `State-Space Form` `I/O Equation` `Transfer Function` `Block Diagram` `Linearization` |
 | 5 | Mechanical Systems |`Spring and Dampers` `Translational Systems` `Rotational Systems` `Mixed Systems: Translation and Rotation` `Gear-Train Systems` |
