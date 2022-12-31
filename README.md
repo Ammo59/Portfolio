@@ -38,6 +38,15 @@ MAE 376 (Modeling and Analysis of Dynamic Systems) Coursework:
 | 10 | Feedback Control Systems |`Control Design` `Stability and Performance` `PID Control` `Root Locus` `Bode Plot Simulation and Analysis` `Full-State Feedback` `Simulink/Simscape Control Design` |
 
 MAE 476 (Mechanical Control Systems) Homework: 
+| Chapter No. | Name | Key Topics |
+| :------------ | :-------------: | :-------------: |
+| 3 | Dynamic Response | `Convolution` `Partial-Fraction Expansion` `Time-Domain Specifications` |
+| 4 | Feedback Analysis | `Stability` `Tracking` `Regulation` `Sensitivity` `Steady-State Error` `Disturbance Rejection` `Feedforward` `PID Control` `Digital Control` |
+| 5 | Root-Locus Design |`Lag/Lead/Notch Compensation` `Analog/Digital Implementations` `Root Locus Rules/Properties` |
+| 6 | Frequency Response Design | `Nyquist/Bode Plot` `Stability Margins` `Gain-Phase Relationship` `PD vs. PI vs. PID Compensation` |
+| 7 | State-Space Design | `State-Space Advantages` `Control-Law Design` `Selection of Pole Locations` `estimator Design` `Robust Tracking` |
+| 8 | Digital Control | `Digitization` `Dynamic Analysis of Discrete Systems` `Z-Transform` `Zero-Order Hold` `[Modified] Matched Pole-Zero Method` `Analog-to-Digital Converter` |
+| 10 | Principles and Case Studies |`Satellite's Altitude Control` `Lateral/Longitudinal Control of Boeing` `Fuel-Air Ratio in Engine` `Quadcopter Drone` |
 
 ## From Long Beach City College
 
